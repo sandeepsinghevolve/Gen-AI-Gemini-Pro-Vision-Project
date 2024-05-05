@@ -3,7 +3,7 @@ This repository contains the complete Google Gemini Pro & Vision applications.
 
 # Applications:
 
- 1.ChatBot
+  1. ChatBot
 
 2. Effortlessly unlocks the meaning within your PDFs through AI-powered context and summary extraction provided by Google Gemini Pro.
 
